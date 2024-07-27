@@ -24,8 +24,8 @@
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=douyl&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douyl&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-<br/>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douyl&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" /> -->
+<!-- <br/> -->
 </p>
 
 <!-- https://github.com/badges/shields -->
