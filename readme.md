@@ -1,6 +1,7 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Yulong%20Dou!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<a href="https://douyl.github.io/">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Yulong%20Dou!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" /></a>
 </p>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -18,12 +19,8 @@
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=douyl&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=douyl&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douyl&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
-<!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
 </p>
 
 <!-- https://github.com/badges/shields -->
